@@ -10,7 +10,7 @@ Develop a machine learning model that predicts the Sustainable Habitability Scor
 
 ### Dataset
 The dataset contains various properties from across the United States. Your challenge is to predict the "habitability score" for each property, considering multiple factors that contribute to a comfortable and enjoyable living experience.
-you can find test data set [here](test.csv) and train data set [here](train.csv)
+- you can find test data set [here](test.csv) and train data set [here](train.csv)
 
 ### Explainability
 Explainability is crucial! Strive to build models that not only predict accurately but also provide understandable insights into the factors influencing habitability scores. This will help users interpret the results and make informed decisions.
