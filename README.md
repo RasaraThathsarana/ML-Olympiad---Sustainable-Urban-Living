@@ -25,5 +25,5 @@ Ashwin Raj, BeyondML. (2024). ML Olympiad - Sustainable Urban Living. Kaggle. [h
 
 - [Project report](210170G_Report.pdf)
 - [Jupeter notebook](210170G_Lab2.ipynb)
-- [Final prediction]([Final Prediction.csv](https://github.com/RasaraThathsarana/ML-Olympiad---Sustainable-Urban-Living/blob/63dda83c4b85a57536a36c46d3d9b3df662baae0/Final%20Prediction.csv))
+- [Final Prediction.csv](https://github.com/RasaraThathsarana/ML-Olympiad---Sustainable-Urban-Living/blob/63dda83c4b85a57536a36c46d3d9b3df662baae0/Final%20Prediction.csv)
 
